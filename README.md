@@ -1,2 +1,2 @@
 # Python-Problem-Statements-Basic-to-Advance
-Collection of Python problem statements from beginner to advanced, designed to enhance coding skills.
+Comprehensive Python problem statements, from basic to advanced, tailored for mastering key concepts in Data Science, Machine Learning, Deep Learning and AI.
